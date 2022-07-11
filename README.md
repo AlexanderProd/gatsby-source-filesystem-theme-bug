@@ -3,7 +3,7 @@
 1. clone the repository
 2. `yarn workspace example.com install`
 3. `yarn workspace example.com start`
-4. go to http://localhost:8000/\_\_\_graphql
+4. go to http://localhost:8000/___graphql
 5. run the following query
 
 ```
